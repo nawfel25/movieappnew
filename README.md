@@ -38,5 +38,8 @@ ng serve and go to http://localhost:4200/
 
 ## Become a contributor ?
 
-Find a bug, contribute some code or suggest ideas ? don't hesitate ! Create a pull request or an issue.
-/home/nawfel/Images/Capture d’écran de 2022-04-09 15-42-05.png
+Find a bug, contribute some code or suggest ideas ? don't hesitate !
+
+capture decran de jenkins blue ocean
+
+![Capture d’écran de 2022-04-09 15-42-05](https://user-images.githubusercontent.com/102426542/162579709-54a1bc85-bc26-4296-bd03-0113bcb05278.png)
